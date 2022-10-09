@@ -1,5 +1,5 @@
 # multi-drone-quiz
-This program chose calculate along columns first, then calculate along rows. The results should be the same in reverse.
+This program chose to calculate along columns first, then calculate along rows. The results should be the same in reverse.
 
 ## Compute vertical distance
 
