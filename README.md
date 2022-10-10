@@ -59,3 +59,5 @@ This program chose to calculate along columns first, then calculate along rows. 
             l+=1
          map_2[r,i] = (l-i)**2 + map_1[r,l]
       ```
+
+*The complexity is O(2MN)*
